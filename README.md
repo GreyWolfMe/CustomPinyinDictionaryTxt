@@ -1,0 +1,2 @@
+# CustomPinyinDictionaryTxt
+gboard词库txt文件
